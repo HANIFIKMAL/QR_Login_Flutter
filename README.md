@@ -12,7 +12,7 @@ Credit to : https://www.youtube.com/watch?v=Dh-cTQJgM-Q&list=WL&index=68 (Mitch 
 mobile_scanner version 2.1.0 do not use newer version as it will not work with this project
 
 # Login Page
-![1](https://github.com/HANIFIKMAL/QR_Login_Flutter/assets/109122471/0ecd94af-3880-4072-b16a-72327e689555)
+![1](https://github.com/HANIFIKMAL/QR_Login_Flutter/assets/109122471/0ecd94af-3880-4072-b16a-72327e689555 width=50% )
 
 # Home Page
 ![2](https://github.com/HANIFIKMAL/QR_Login_Flutter/assets/109122471/1b910358-be27-4d70-89d8-555aa91f22b6)
