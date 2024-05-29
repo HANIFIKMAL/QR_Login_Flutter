@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506777513579",
+    "project_id": "logintest-fe4cd",
+    "storage_bucket": "logintest-fe4cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506777513579:android:8c5f265ef64b9ffd4d0b2e",
+        "android_client_info": {
+          "package_name": "com.example.login_qr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClV-fT_BoMSzFzsyzUuA70YKfVICijV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+flutter/ephemeral
+
+# Ignore Firebase configuration and local emulators
+firebase.json
+.firebaserc
+.firebase/
