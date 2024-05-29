@@ -2,10 +2,10 @@
 
 This project use qr code for check in <br/>
 
-Google logo use in this project is just a placeholder and it can be change or remove
+Google logo use in this project is just a placeholder and it can be change or remove <br/>
 
-How to Start Flutter Project: https://www.youtube.com/watch?v=ZavK9ep_sZY&t=25s
-How to connect Project to Firebase: https://www.youtube.com/watch?v=sz4slPFwEvs
+How to Start Flutter Project: https://www.youtube.com/watch?v=ZavK9ep_sZY&t=25s <br/>
+How to connect Project to Firebase: https://www.youtube.com/watch?v=sz4slPFwEvs <br/>
 Credit to : https://www.youtube.com/watch?v=Dh-cTQJgM-Q&list=WL&index=68 (Mitch Koko) and
             https://www.youtube.com/watch?v=tGSWzsxJCsA&list=WL&index=79&t=339s (Baaba Devs)
 
