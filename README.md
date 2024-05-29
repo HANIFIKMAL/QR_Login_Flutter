@@ -1,4 +1,4 @@
-# login_qr
+# QE_Login_Flutter
 
 A new Flutter project.
 
