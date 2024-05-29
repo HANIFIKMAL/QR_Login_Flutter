@@ -1,6 +1,6 @@
 # QR_Login_Flutter
 
-This project use qr code for check in
+This project use qr code for check in <br/>
 
 Google logo use in this project is just a placeholder and it can be change or remove
 
